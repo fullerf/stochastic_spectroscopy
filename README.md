@@ -15,6 +15,7 @@ Once you have that image installed, you can use it to run a jupyter notebook. In
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/running.html
 
 Then you can run the notebooks in the notebooks folder to generate figures in the paper. You will need to download the data. That can be found here:
+https://doi.org/10.17605/OSF.IO/2CQMZ
 
 
 
