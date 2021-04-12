@@ -1,6 +1,10 @@
 # README #
 
 
+[![DOI](https://zenodo.org/badge/357017678.svg)](https://zenodo.org/badge/latestdoi/357017678)
+
+
+
 ### What is this repository for? ###
 
 * This repository accompanies a paper entitled "Resonant X-ray Emission spectroscopy from broadband stochastic pulses at an X-ray free electron laser "
