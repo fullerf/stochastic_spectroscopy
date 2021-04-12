@@ -3,8 +3,7 @@
 
 ### What is this repository for? ###
 
-* This repository accompanies a paper entitled "Multidimensional spectroscopy from broadband stochastic pulses at an X-ray free electron laser"
-* Version 0.0.1
+* This repository accompanies a paper entitled "Resonant X-ray Emission spectroscopy from broadband stochastic pulses at an X-ray free electron laser "
 
 ### How do I get set up? ###
 
